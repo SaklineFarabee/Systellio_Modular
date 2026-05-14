@@ -2,7 +2,7 @@
 $host = "localhost";
 $db_user = "root"; // লোকাল সার্ভারের ডিফল্ট ইউজারনেম
 $db_pass = ""; // লোকাল সার্ভারে সাধারণত পাসওয়ার্ড খালি থাকে
-$db_name = "crm_system"; // আপনার তৈরি করা ডেটাবেসের নাম
+$db_name = "demo_crm"; // আপনার তৈরি করা ডেটাবেসের নাম
 
 // ডেটাবেসের সাথে কানেকশন তৈরি
 $conn = mysqli_connect($host, $db_user, $db_pass, $db_name);

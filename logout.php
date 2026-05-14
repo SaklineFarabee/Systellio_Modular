@@ -9,6 +9,6 @@ session_unset();
 session_destroy();
 
 // লগআউট হওয়ার পর ইউজারকে লগইন পেজে ফেরত পাঠানো
-header("Location: login.php");
+header("Location: index.php");
 exit();
 ?>
