@@ -91,4 +91,5 @@ Staging Branch: All new features and refinements are first pushed to the staging
 
 •
 Main Branch: Production-ready code is merged into the main branch.
+.
 
