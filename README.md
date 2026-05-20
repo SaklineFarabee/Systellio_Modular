@@ -1,4 +1,4 @@
-## Sytellio CRM
+## Sytellio CRM 1
 
 Sytellio is a comprehensive Customer Relationship Management (CRM) solution developed for Peer Solution. It is designed to streamline sales, marketing, and task management for IT startup companies.
 
@@ -48,8 +48,7 @@ MySQL/MariaDB database server.
 
 Installation
 
-1.
-Clone the repository:
+1.Clone the repository:
 
 Bash
 
