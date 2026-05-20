@@ -48,8 +48,7 @@ MySQL/MariaDB database server.
 
 Installation
 
-1.
-Clone the repository:
+1.Clone the repository:
 
 Bash
 
@@ -60,24 +59,21 @@ git clone https://github.com/SaklineFarabee/sytellio-crm.git
 
 
 
-2.
-Configure the database:
+2.Configure the database:
 
 •
 Update config.php with your database credentials.
 
 
 
-3.
-Initialize the database:
+3.Initialize the database:
 
 •
 Run the setup_db.php script or import demo_crm.sql manually.
 
 
 
-4.
-Access the application:
+4.Access the application:
 
 •
 Navigate to the project directory in your web browser.
