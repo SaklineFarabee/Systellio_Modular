@@ -25,7 +25,7 @@ Analytics & Reporting: Gain insights into business performance.
 •
 Unified Notification System: Stay updated with real-time alerts.
 
-## Technology Stack
+Technology Stack
 
 •
 Frontend: HTML5, CSS3 (Inter font), JavaScript, Font Awesome.
